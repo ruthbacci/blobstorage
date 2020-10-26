@@ -18,5 +18,9 @@ The following blob properties are retrieved
 
 ![GitHub Logo](/images/LastAccessed.png)
 
-Sample Output: 
+# Pre-Requisties
+
+1) Powershell 5.1.18362 or greater is installed (https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-4.8.0)
+2) Connect to Azure Account by running the command 'Connect-AzAccount'  (https://docs.microsoft.com/en-us/powershell/azure/authenticate-azureps?view=azps-4.8.0)
+3) Select the Azure Subscription you want to run the script on by running the command 'Set-AzContext -SubscriptionId "xxxx-xxxx-xxxx-xxxx"'
 
