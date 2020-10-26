@@ -1,4 +1,4 @@
-# blobstorage
+# Get Blob Properties - Including Last Modified and Last Accessed
 
 This Powersehll script, retrieves the properties of a blob and writes the output to an Excel Spreadsheet. 
 
