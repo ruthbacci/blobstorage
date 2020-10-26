@@ -14,7 +14,7 @@ The following blob properties are retrieved
 
 * To report on Last Accessed date you must enable this on the Storage Account. Also see https://docs.microsoft.com/en-gb/azure/storage/blobs/storage-lifecycle-management-concepts?tabs=azure-portal#move-data-based-on-last-accessed-date-preview  for further information
 
-
+![GitHub Logo](/images/LastAccessed.png)
 
 Sample Output: 
 
